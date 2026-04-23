@@ -12,6 +12,11 @@ ENV/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.env.*
 
 # OS/editor files
 .DS_Store
